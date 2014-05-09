@@ -1,0 +1,1332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Report",
+				"ReportType"
+			],
+			[
+				"furnit",
+				"furnitures_renders"
+			],
+			[
+				"materi",
+				"materials_renders"
+			],
+			[
+				"material",
+				"material_types"
+			],
+			[
+				"extract",
+				"extract_colors"
+			],
+			[
+				"ass",
+				"association"
+			],
+			[
+				"render_",
+				"render_type_params"
+			],
+			[
+				"Render",
+				"RenderType"
+			],
+			[
+				"materia",
+				"material_types"
+			],
+			[
+				"Material",
+				"MaterialType"
+			],
+			[
+				"getr",
+				"get_result"
+			],
+			[
+				"msi",
+				"msights"
+			],
+			[
+				"creative",
+				"creative_library"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ember/js/controllers/todos_controller.js",
+			"settings":
+			{
+				"buffer_size": 516,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ember/js/controllers/todo_controller.js",
+			"settings":
+			{
+				"buffer_size": 415,
+				"line_ending": "Unix",
+				"name": "Todos.TodoController = Ember.ObjectController.exte"
+			}
+		},
+		{
+			"file": "ember/js/application.js",
+			"settings":
+			{
+				"buffer_size": 98,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ember/js/router.js",
+			"settings":
+			{
+				"buffer_size": 178,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ember/index.html",
+			"settings":
+			{
+				"buffer_size": 2005,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ember/js/models/todo.js",
+			"settings":
+			{
+				"buffer_size": 305,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 41.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 363.0
+	},
+	"console":
+	{
+		"height": 116.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/heber/workspaces/test/ember/index.html",
+		"/home/heber/workspaces/test/ember/bower.json",
+		"/home/heber/workspaces/test/ember/style.css",
+		"/home/heber/workspaces/test/ember/jquery-1.10.2.min.js",
+		"/home/heber/workspaces/test/ember/handlebars-1.0.0.js",
+		"/home/heber/workspaces/test/ember/ember.js",
+		"/home/heber/workspaces/test/ember/ember-data.js",
+		"/home/heber/workspaces/personal/dedecora/db/migrate/20140213005354_create_renders.rb",
+		"/home/heber/workspaces/personal/dedecora/app/models/render.rb",
+		"/home/heber/workspaces/personal/dedecora/app/views/materials/_form.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/assets/stylesheets/framework_and_overrides.css.scss",
+		"/home/heber/workspaces/personal/dedecora/app/controllers/renders_controller.rb",
+		"/home/heber/workspaces/personal/dedecora/spec/factories/renders.rb",
+		"/home/heber/workspaces/personal/dedecora/app/views/renders/_form.html.haml",
+		"/home/heber/workspaces/personal/dedecora/spec/models/render_type_spec.rb",
+		"/home/heber/workspaces/personal/dedecora/app/controllers/report_types_controller.rb",
+		"/home/heber/workspaces/personal/dedecora/app/controllers/rooms_controller.rb",
+		"/home/heber/workspaces/personal/dedecora/app/uploaders/material_uploader.rb",
+		"/home/heber/workspaces/personal/dedecora/config/locales/models.en.yml",
+		"/home/heber/workspaces/personal/dedecora/app/views/render_types/_form.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/colors/_form.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/models/plane.rb",
+		"/home/heber/workspaces/personal/dedecora/spec/factories/furnitures.rb",
+		"/home/heber/workspaces/personal/dedecora/spec/factories/render_types.rb",
+		"/home/heber/workspaces/personal/dedecora/app/controllers/families_controller.rb",
+		"/home/heber/workspaces/personal/dedecora/spec/factories/families.rb",
+		"/home/heber/workspaces/personal/dedecora/spec/factories/furnitures_renders.rb",
+		"/home/heber/workspaces/personal/dedecora/app/controllers/furnitures_controller.rb",
+		"/home/heber/workspaces/personal/dedecora/spec/assets/render.xcf",
+		"/home/heber/workspaces/personal/dedecora/db/migrate/20140311234728_create_authentications.rb",
+		"/home/heber/workspaces/personal/dedecora/db/migrate/20140306031648_add_image_to_renders.rb",
+		"/home/heber/workspaces/personal/dedecora/db/migrate/20140208173730_add_name_to_users.rb",
+		"/home/heber/workspaces/personal/dedecora/db/migrate/20140208173731_rolify_create_roles.rb",
+		"/home/heber/workspaces/personal/dedecora/config/initializers/mime_types.rb",
+		"/home/heber/workspaces/personal/dedecora/app/uploaders/render_uploader.rb",
+		"/home/heber/workspaces/personal/dedecora/app/uploaders/style_uploader.rb",
+		"/home/heber/workspaces/personal/dedecora/spec/spec_helper.rb",
+		"/home/heber/workspaces/personal/dedecora/app/views/materials/show.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/uploaders/avatar_uploader.rb",
+		"/home/heber/workspaces/personal/dedecora/config/unicorn.rb",
+		"/home/heber/workspaces/personal/dedecora/Gemfile",
+		"/home/heber/workspaces/personal/dedecora/app/views/materials/index.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/styles/index.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/styles/show.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/controllers/styles_controller.rb",
+		"/home/heber/workspaces/personal/dedecora/app/controllers/static_controller.rb",
+		"/home/heber/workspaces/personal/dedecora/app/helpers/application_helper.rb",
+		"/home/heber/workspaces/personal/dedecora/app/helpers/shared_helper.rb",
+		"/home/heber/workspaces/personal/dedecora/app/models/material.rb",
+		"/home/heber/workspaces/personal/dedecora/app/views/styles/_form.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/material_types/show.json.jbuilder",
+		"/home/heber/workspaces/personal/dedecora/app/views/material_types/show.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/layouts/_meta_tags.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/layouts/application.html.haml",
+		"/home/heber/workspaces/personal/dedecora/config/application.rb",
+		"/home/heber/workspaces/personal/dedecora/config/application.yml",
+		"/home/heber/workspaces/personal/dedecora/app/assets/stylesheets/admin.css.scss",
+		"/home/heber/workspaces/personal/dedecora/app/controllers/materials_controller.rb",
+		"/home/heber/workspaces/personal/dedecora/app/views/material_types/index.json.jbuilder",
+		"/home/heber/workspaces/personal/dedecora/app/views/material_types/index.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/models/material_type.rb",
+		"/home/heber/workspaces/personal/dedecora/Guardfile",
+		"/home/heber/workspaces/personal/dedecora/app/inputs/image_preview_input.rb",
+		"/home/heber/workspaces/personal/dedecora/config/initializers/simple_form.rb",
+		"/home/heber/workspaces/personal/dedecora/app/views/material_types/_form.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/controllers/material_types_controller.rb",
+		"/home/heber/workspaces/personal/dedecora/app/views/styles/new.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/styles/edit.html.haml",
+		"/home/heber/workspaces/personal/dedecora/spec/models/material_spec.rb",
+		"/home/heber/workspaces/personal/dedecora/app/views/colors/index.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/colors/index.json.jbuilder",
+		"/home/heber/workspaces/personal/dedecora/app/views/furnitures/_form.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/furnitures/edit.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/furnitures/index.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/furnitures/new.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/furnitures/show.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/rooms/_form.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/rooms/edit.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/rooms/index.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/rooms/new.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/rooms/show.html.haml",
+		"/home/heber/workspaces/personal/dedecora/spec/models/furniture_spec.rb",
+		"/home/heber/workspaces/personal/dedecora/config/application.yml.example",
+		"/home/heber/workspaces/personal/dedecora/app/controllers/reports_controller.rb",
+		"/home/heber/workspaces/personal/dedecora/app/views/reports/show.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/reports/new.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/reports/index.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/reports/edit.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/reports/_form.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/report_types/_form.html.haml",
+		"/home/heber/workspaces/personal/dedecora/config/database.yml",
+		"/home/heber/workspaces/personal/dedecora/spec/support/deferred_garbage_collection_all_in_one.rb",
+		"/home/heber/workspaces/personal/dedecora/config/initializers/devise.rb",
+		"/home/heber/workspaces/personal/dedecora/spec/models/report_type_spec.rb",
+		"/home/heber/workspaces/personal/dedecora/spec/factories/report_types.rb",
+		"/home/heber/workspaces/personal/dedecora/app/views/report_types/edit.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/report_types/index.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/report_types/new.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/report_types/show.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/controllers/render_types_controller.rb",
+		"/home/heber/workspaces/personal/dedecora/app/views/render_types/show.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/render_types/new.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/render_types/edit.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/render_types/index.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/models/render_type.rb",
+		"/home/heber/workspaces/personal/dedecora/app/views/render_types/index.json.jbuilder",
+		"/home/heber/workspaces/personal/dedecora/app/views/families/show.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/colors/show.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/concerns/codeable.rb",
+		"/home/heber/workspaces/personal/dedecora/spec/controllers/material_types_controller_spec.rb",
+		"/home/heber/workspaces/personal/dedecora/app/assets/videos/background-dedecora.mp4",
+		"/home/heber/workspaces/personal/dedecora/app/views/families/new.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/views/families/_form.html.haml",
+		"/home/heber/workspaces/personal/dedecora/app/controllers/colors_controller.rb",
+		"/home/heber/workspaces/personal/dedecora/spec/factories/colors.rb",
+		"/home/heber/workspaces/personal/dedecora/app/models/color.rb",
+		"/home/heber/workspaces/personal/navieros/index.php",
+		"/home/heber/workspaces/personal/navieros/contact.php",
+		"/home/heber/workspaces/personal/navieros-backup/who.php",
+		"/home/heber/workspaces/personal/dedecora/config/locales/en/devise.en.yml",
+		"/home/heber/workspaces/personal/dedecora/config/locales/en/models.en.yml",
+		"/home/heber/workspaces/personal/dedecora/app/assets/stylesheets/bootstrap/variables.css.scss.example",
+		"/home/heber/workspaces/personal/dedecora/app/assets/stylesheets/bootstrap/variables.css.scss",
+		"/home/heber/workspaces/personal/dedecora/spec/support/devise.rb",
+		"/home/heber/workspaces/personal/dedecora/db/seeds.rb",
+		"/home/heber/workspaces/personal/dedecora/config/environment.rb",
+		"/home/heber/workspaces/personal/dedecora/config/locales/en/errors.en.yml",
+		"/home/heber/workspaces/personal/dedecora/script/rails"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 75.0,
+		"where_history":
+		[
+			"/home/heber/workspaces/personal/dedecora",
+			"/home/heber/workspaces/personal/decoracad",
+			"/home/heber/workspaces/general/creative_library",
+			"/home/heber/workspaces/general/msights",
+			"/home/heber/workspaces/general/creative_library",
+			"/home/heber/workspaces/general/msights",
+			"/home/heber/workspaces/general/creative_library/app/views/creative_library/lookups",
+			"/home/heber/workspaces/general/creative_library",
+			"/home/heber/workspaces/general/msights",
+			"/home/heber/workspaces/examples/Creative-Library",
+			"/home/heber/workspaces/general/creative_library",
+			"/home/heber/workspaces/general/msights",
+			"/home/heber/workspaces/general/creative_library",
+			"/home/heber/workspaces/examples/Creative-Library",
+			"/home/heber/workspaces/general/msights",
+			"/home/heber/workspaces/general",
+			"/home/heber/workspaces/general/creative_library",
+			"/home/heber/workspaces/general/msights",
+			"/home/heber/workspaces/examples/Creative-Library",
+			"/home/heber/workspaces/general/msights",
+			"/home/heber/workspaces/examples/Creative-Library",
+			"/home/heber/workspaces/general",
+			"/home/heber/workspaces/general/creative_library",
+			"/home/heber/workspaces/examples/Creative-Library",
+			"/home/heber/workspaces/general/msights",
+			"/home/heber/workspaces/general/creative_library",
+			"/home/heber/workspaces/general/msights",
+			"/home/heber/workspaces/general/creative_library",
+			"/home/heber/workspaces/examples/Creative-Library",
+			"/home/heber/workspaces/general/msights",
+			"/home/heber/workspaces/general/creative_library",
+			"/home/heber/workspaces/examples/Creative-Library",
+			"/home/heber/workspaces/general/creative_library",
+			"/home/heber/workspaces/general",
+			"/home/heber/workspaces/general/creative_library",
+			"/home/heber/workspaces/examples/Creative-Library",
+			"/home/heber/workspaces/general",
+			"/home/heber/workspaces/general/creative_library"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"todo",
+			"model",
+			"model_name",
+			"furniture",
+			"input",
+			"file",
+			"furniture",
+			"mail",
+			"'",
+			"_",
+			"simple_form.name",
+			"devise-",
+			"renueva",
+			".yml",
+			"locales",
+			"report_params",
+			"test_code",
+			"options",
+			"locale_hash",
+			"locale",
+			"options[:locale].",
+			"options[:locale]",
+			"options",
+			"simple_form.edit",
+			"simple_form.show",
+			"simple_form.destroy",
+			"simple_form.back",
+			"simple_form.are_you_sure",
+			":confirm => 'Are you sure?'",
+			"link_to 'Destroy'",
+			"link_to 'Back'",
+			"link_to 'Edit'",
+			"link_to 'Show'",
+			"'Show'",
+			"@title",
+			"title",
+			"layout_default_title",
+			"@title",
+			"title",
+			"layout_title",
+			"blue",
+			"navbar",
+			"ssl",
+			".container",
+			"main",
+			"filename",
+			"rails",
+			"VERIFY_PEER",
+			"user",
+			"debugger",
+			"active?",
+			"render",
+			"user",
+			"=",
+			"helper",
+			"atom",
+			"@",
+			"navbar-bg",
+			"@",
+			"SENDGRID_USERNAME",
+			"decoracad",
+			"2013",
+			"javascript",
+			"type",
+			"content",
+			".slick-header-column",
+			".slick-header-column\n.slick-header-column\n.slick-header-column",
+			".slick-header-column\n.slick-header-column",
+			"font-wei",
+			"render js:",
+			"window.close",
+			"/lookups",
+			"CSD PEnding",
+			"CSD",
+			"bPage",
+			"slick-header-",
+			"slick-header-column",
+			".slick-header-column",
+			"slick-header-column",
+			".slick-header-column",
+			"slick-header-column",
+			"bPageBlock",
+			"70%",
+			"centeredPopup",
+			"Ad_Format__c",
+			"Ad",
+			"moduletab",
+			"result",
+			"creative_library/versions",
+			"radious",
+			"moduletab",
+			"moduletab_partneredge",
+			"moduletab_partneredge.png",
+			"#CCCCCC",
+			"@first",
+			"#CCCCCC",
+			"@first_color",
+			"@",
+			"resource.new",
+			"initializeGrids",
+			".grid-header label {",
+			"container",
+			"resultsPanel",
+			"'",
+			"figaro",
+			"libv8",
+			"body",
+			"layouts.html.haml",
+			"user_type",
+			"group",
+			"formatters",
+			"creativesGrid",
+			"grid",
+			"addToAContainer",
+			"tabs",
+			"Manage Creative",
+			"session[:current_user]",
+			"/lookups",
+			"lookups",
+			"/img/",
+			"/img/icon/",
+			"/img/chatter/",
+			"/img/oocss/",
+			"/img/sprites/",
+			"/img/alohaSkin/",
+			"/img/dcm/",
+			"/img/func_icons/",
+			"/img/func_icons/util/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"admin.form.edit",
+			"admin.form.show",
+			"admin.form.destroy",
+			"admin.form.back",
+			"admin.form.are_you_sure",
+			":confirm => t('simple_form.are_you_sure')",
+			"link_to t('simple_form.destroy')",
+			"link_to t('simple_form.back')",
+			"link_to t('simple_form.edit')",
+			"link_to t('simple_form.show')",
+			"t('simple_form.show')",
+			"$",
+			"@first_color",
+			"current_user",
+			"/creative_library/lookups",
+			"/assets/",
+			"prefix + \"/creative_library/results",
+			"prefix + \"/results",
+			"url: prefix + ",
+			"Sfdc::Msights.client_data",
+			"url: \"/creative_library/versions",
+			"url: \"/versions",
+			"url: \"versions",
+			"url: \"/versions",
+			"/versions"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ember/js/controllers/todos_controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								508,
+								508
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ember/js/controllers/todo_controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Todos.TodoController = Ember.ObjectController.exte",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ember/js/application.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 98,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "ember/js/router.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "ember/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2005,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								671,
+								671
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "ember/js/models/todo.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								157,
+								157
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 28.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ember.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"indexhtml",
+				"index.html"
+			],
+			[
+				"renderscon",
+				"app/controllers/renders_controller.rb"
+			],
+			[
+				"material_form",
+				"app/views/materials/_form.html.haml"
+			],
+			[
+				"render_form",
+				"app/views/renders/_form.html.haml"
+			],
+			[
+				"modelplane",
+				"app/models/plane.rb"
+			],
+			[
+				"factoriesrede",
+				"spec/factories/renders.rb"
+			],
+			[
+				"modelrender",
+				"app/models/render.rb"
+			],
+			[
+				"styleuplo",
+				"app/uploaders/style_uploader.rb"
+			],
+			[
+				"materialupl",
+				"app/uploaders/material_uploader.rb"
+			],
+			[
+				"uploader",
+				"app/uploaders/avatar_uploader.rb"
+			],
+			[
+				"styleshow",
+				"app/views/styles/show.html.haml"
+			],
+			[
+				"materialshow",
+				"app/views/materials/show.html.haml"
+			],
+			[
+				"applicationher",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"materiaupl",
+				"app/uploaders/material_uploader.rb"
+			],
+			[
+				"styleupl",
+				"app/uploaders/style_uploader.rb"
+			],
+			[
+				"style_form",
+				"app/views/styles/_form.html.haml"
+			],
+			[
+				"materialindex",
+				"app/views/materials/index.html.haml"
+			],
+			[
+				"modelmaterial",
+				"app/models/material.rb"
+			],
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"materialsindex",
+				"app/views/materials/index.html.haml"
+			],
+			[
+				"stylescn",
+				"app/controllers/styles_controller.rb"
+			],
+			[
+				"roomscontr",
+				"app/controllers/rooms_controller.rb"
+			],
+			[
+				"furniturescon",
+				"app/controllers/furnitures_controller.rb"
+			],
+			[
+				"applicationyml",
+				"config/application.yml"
+			],
+			[
+				"application",
+				"config/application.rb"
+			],
+			[
+				"database",
+				"config/database.yml"
+			],
+			[
+				"reporttype_fr",
+				"app/views/report_types/_form.html.haml"
+			],
+			[
+				"reportscon",
+				"app/controllers/reports_controller.rb"
+			],
+			[
+				"reporttypecon",
+				"app/controllers/report_types_controller.rb"
+			],
+			[
+				"rendertypecon",
+				"app/controllers/render_types_controller.rb"
+			],
+			[
+				"furnitshow",
+				"app/views/furnitures/show.html.haml"
+			],
+			[
+				"materialtypecon",
+				"app/controllers/material_types_controller.rb"
+			],
+			[
+				"mateiralcon",
+				"app/controllers/materials_controller.rb"
+			],
+			[
+				"odeable",
+				"app/concerns/codeable.rb"
+			],
+			[
+				"familiescon",
+				"app/controllers/families_controller.rb"
+			],
+			[
+				"colorscon",
+				"app/controllers/colors_controller.rb"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"applicati",
+				"config/application.yml"
+			],
+			[
+				"modelsen",
+				"config/locales/models.en.yml"
+			],
+			[
+				"carrierwae",
+				"config/locales/carrierwave.en.yml"
+			],
+			[
+				"applicationrb",
+				"config/application.rb"
+			],
+			[
+				"_form",
+				"app/views/colors/_form.html.haml"
+			],
+			[
+				"helper",
+				"spec/support/helper_methods.rb"
+			],
+			[
+				"concernco",
+				"app/concerns/codeable.rb"
+			],
+			[
+				"concernspec",
+				"spec/concerns/codeable_spec.rb"
+			],
+			[
+				"speccodeabl",
+				"spec/shared/codeable.rb"
+			],
+			[
+				"speccodeal",
+				"spec/shared/codeable.rb"
+			],
+			[
+				"spec",
+				"spec/spec_helper.rb"
+			],
+			[
+				"spec_he",
+				"spec/spec_helper.rb"
+			],
+			[
+				"sharedcodea",
+				"spec/shared/codeable.rb"
+			],
+			[
+				"modelspec",
+				"spec/models/furniture_spec.rb"
+			],
+			[
+				"spec_helper",
+				"spec/spec_helper.rb"
+			],
+			[
+				"spec_",
+				"spec/spec_helper.rb"
+			],
+			[
+				"guard",
+				"Guardfile"
+			],
+			[
+				"sharedco",
+				"spec/shared/codeable.rb"
+			],
+			[
+				"concern",
+				"app/concerns/codeable.rb"
+			],
+			[
+				"helperm",
+				"spec/support/helper_methods.rb"
+			],
+			[
+				"shared",
+				"spec/shared/codeable.rb"
+			],
+			[
+				"reportscontr",
+				"app/controllers/reports_controller.rb"
+			],
+			[
+				"controll",
+				"spec/controllers/reports_controller_spec.rb"
+			],
+			[
+				"furniture",
+				"spec/models/furniture_spec.rb"
+			],
+			[
+				"roomc",
+				"app/controllers/rooms_controller.rb"
+			],
+			[
+				"roomcontr",
+				"spec/controllers/rooms_controller_spec.rb"
+			],
+			[
+				"roomcontro",
+				"spec/controllers/rooms_controller_spec.rb"
+			],
+			[
+				"stylescontr",
+				"spec/controllers/styles_controller_spec.rb"
+			],
+			[
+				"materialtypescon",
+				"spec/controllers/material_types_controller_spec.rb"
+			],
+			[
+				"material_typescon",
+				"app/controllers/material_types_controller.rb"
+			],
+			[
+				"rendertypescon",
+				"app/controllers/render_types_controller.rb"
+			],
+			[
+				"reporttypescon",
+				"app/controllers/report_types_controller.rb"
+			],
+			[
+				"factoriesmateri",
+				"spec/factories/materials.rb"
+			],
+			[
+				"materialcontr",
+				"spec/controllers/materials_controller_spec.rb"
+			],
+			[
+				"materialscon",
+				"app/controllers/materials_controller.rb"
+			],
+			[
+				"reporttypespec",
+				"spec/models/report_type_spec.rb"
+			],
+			[
+				"rendertpspec",
+				"spec/models/render_type_spec.rb"
+			],
+			[
+				"modelreport_ty",
+				"app/models/report_type.rb"
+			],
+			[
+				"reporttypesspec",
+				"spec/controllers/report_types_controller_spec.rb"
+			],
+			[
+				"reporttypes",
+				"spec/factories/report_types.rb"
+			],
+			[
+				"report_rt",
+				"app/controllers/report_types_controller.rb"
+			],
+			[
+				"render_types",
+				"spec/factories/render_types.rb"
+			],
+			[
+				"render_typesse",
+				"spec/controllers/render_types_controller_spec.rb"
+			],
+			[
+				"rendertypecontr",
+				"app/controllers/render_types_controller.rb"
+			],
+			[
+				"render_typespec",
+				"spec/models/render_type_spec.rb"
+			],
+			[
+				"furnet",
+				"app/controllers/furnitures_controller.rb"
+			],
+			[
+				"furniturescontr",
+				"spec/controllers/furnitures_controller_spec.rb"
+			],
+			[
+				"concerncodeab",
+				"app/concerns/codeable.rb"
+			],
+			[
+				"furniture_spec",
+				"spec/models/furniture_spec.rb"
+			],
+			[
+				"modelfurni",
+				"app/models/furniture.rb"
+			],
+			[
+				"factoriesfur",
+				"spec/factories/furnitures.rb"
+			],
+			[
+				"furnituresconrtol",
+				"spec/controllers/furnitures_controller_spec.rb"
+			],
+			[
+				"furnitures",
+				"app/controllers/furnitures_controller.rb"
+			],
+			[
+				"modelfurniture",
+				"app/models/furniture.rb"
+			],
+			[
+				"factoriesmaterial",
+				"spec/factories/materials.rb"
+			],
+			[
+				"materialspec",
+				"spec/models/material_spec.rb"
+			],
+			[
+				"codea",
+				"app/concerns/codeable.rb"
+			],
+			[
+				"codeablespec",
+				"spec/concerns/codeable_spec.rb"
+			],
+			[
+				"codeal",
+				"spec/shared/codeable.rb"
+			],
+			[
+				"applicationcss",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"devise",
+				"config/initializers/devise.rb"
+			],
+			[
+				"carrier",
+				"config/initializers/carrierwave.rb"
+			],
+			[
+				"reports_form",
+				"app/views/reports/_form.html.haml"
+			],
+			[
+				"rooms_form",
+				"app/views/rooms/_form.html.haml"
+			],
+			[
+				"bootstrap",
+				"config/initializers/simple_form_bootstrap.rb"
+			],
+			[
+				"simple",
+				"config/initializers/simple_form.rb"
+			],
+			[
+				"famili_form",
+				"app/views/families/_form.html.haml"
+			],
+			[
+				"indexhtmlhaml",
+				"app/views/render_types/index.html.haml"
+			],
+			[
+				"",
+				"app/views/material_types/index.html.haml"
+			],
+			[
+				"index.html.haml",
+				"app/views/material_types/index.html.haml"
+			],
+			[
+				"ind",
+				"app/views/colors/index.json.jbuilder"
+			],
+			[
+				"staticindex",
+				"app/views/static/index.html.haml"
+			],
+			[
+				"applicationjs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"variables",
+				"app/assets/stylesheets/bootstrap/variables.css.scss"
+			],
+			[
+				"families_form",
+				"app/views/families/_form.html.haml"
+			],
+			[
+				"familiesnew",
+				"app/views/families/new.html.haml"
+			],
+			[
+				"admin",
+				"app/assets/stylesheets/admin.css.scss"
+			],
+			[
+				"framework",
+				"app/assets/stylesheets/framework_and_overrides.css.scss"
+			],
+			[
+				"familiesindex",
+				"app/views/families/index.html.haml"
+			],
+			[
+				"famiiesindex",
+				"app/views/families/index.html.haml"
+			],
+			[
+				"applicationhtml",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"production",
+				"config/environments/production.rb"
+			],
+			[
+				"statics",
+				"app/assets/javascripts/static.js.coffee"
+			],
+			[
+				"staticjsco",
+				"app/assets/javascripts/static.js.coffee"
+			],
+			[
+				"boot.r",
+				"config/boot.rb"
+			],
+			[
+				"layoutsa",
+				"app/views/layouts/admin.html.haml"
+			],
+			[
+				"_ver",
+				"app/views/layouts/_vertical_navigation.html.haml"
+			],
+			[
+				"staticcon",
+				"app/controllers/static_controller.rb"
+			],
+			[
+				"applicationcont",
+				"app/controllers/application_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/workspaces/general/dynamic-sandbox.sublime-project"
+			],
+			[
+				"t",
+				"~/workspaces/personal/tradegig.sublime-project"
+			],
+			[
+				"dynami",
+				"~/workspaces/general/dynamic-sandbox.sublime-project"
+			],
+			[
+				"trade",
+				"~/workspaces/personal/tradegig.sublime-project"
+			],
+			[
+				"byseap",
+				"~/workspaces/personal/byswap.sublime-project"
+			],
+			[
+				"trad",
+				"~/workspaces/personal/tradegig.sublime-project"
+			],
+			[
+				"dyna",
+				"~/workspaces/examples/dynamic-sandbox.sublime-project"
+			]
+		],
+		"width": 285.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
