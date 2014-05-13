@@ -16,6 +16,9 @@ Todos.TodosController = Ember.ArrayController.extend({
 
       // Save the new model
       todo.save();
+    },
+    heyho: function() {
+      alert("Accept changes 2!");
     }
   },
 
