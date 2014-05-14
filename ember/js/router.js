@@ -13,7 +13,7 @@ Todos.TodosRoute = Ember.Route.extend({
 
 Todos.TodosIndexRoute = Ember.Route.extend({
   model: function(){
-    return this.modelFor('todos');
+    return this.store.find('todo');
   }
 })
 
