@@ -15,7 +15,7 @@
 
         <section id="main">
           {{outlet}}
-          <input type="checkbox" id="toggle-all">
+          {{input type="checkbox" id="toggle-all" checked=allAreDone}}
         </section>
 
         <footer id="footer">
@@ -48,15 +48,17 @@
 
     <script type="text/x-handlebars" data-template-name="todos/index">
       <ul id="todo-list">
-        {{#each itemController="todo"}}
-          <li {{bind-attr class="isCompleted:completed isEditing:editing"}}>
-            {{#if isEditing}}
-              {{edit-todo class="edit" value=title focus-out="acceptChanges" insert-newline="acceptChanges" escape-press="acceptChanges"}}
-            {{else}}
-              {{input type="checkbox" checked=isCompleted class="toggle"}}
-              <label {{action "editTodo" on="doubleClick"}}>{{title}}</label><button class="destroy" {{action "removeTodo"}}></button>
-            {{/if}}
-          </li>
+        {{#each model in content itemController="todo"}}
+          {{#with model}}
+            <li {{bind-attr class="isCompleted:completed isEditing:editing"}}>
+              {{#if isEditing}}
+                {{edit-todo class="edit" value=title focus-out="acceptChanges" insert-newline="acceptChanges" escape-press="acceptChanges"}}
+              {{else}}
+                {{input type="checkbox" checked=isCompleted class="toggle"}}
+                <label {{action "editTodo" on="doubleClick"}}>{{title}}</label><button class="destroy" {{action "removeTodo"}}></button>
+              {{/if}}
+            </li>
+          {{/with}}
         {{/each}}
       </ul>
     </script>
@@ -65,6 +67,7 @@
     <script src="js/libs/handlebars-1.0.0.js"></script>
     <script src="js/libs/ember.js"></script>
     <script src="js/libs/ember-data.js"></script>
+    <script src="js/libs/localstorage_adapter.js"></script>
     <script src="js/application.js"></script>
     <script src="js/router.js"></script>
     <script src="js/models/todo.js"></script>
